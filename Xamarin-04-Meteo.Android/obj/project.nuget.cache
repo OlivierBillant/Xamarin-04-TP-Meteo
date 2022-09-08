@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ry8x0rnhqUJn3depc1xob+nhc4Jrp6oq0gieumjJwEILeSELNxNlYVawvNhJfba9Y10blEdWEzmTD5uBSCKxjA==",
+  "dgSpecHash": "Z631RkLgxnQn0mIbM8dnZkuaMlp9RElx4076pnQDUFepD4b2HnBoW4NNRoMhgNPJG+EiA6Zr3mEO0bc558tf5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\obillant2022\\Documents\\Xamarin\\Xamarin-04-Meteo\\Xamarin-04-Meteo.Android\\Xamarin-04-Meteo.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\obillant2022\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\obillant2022\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
     "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",

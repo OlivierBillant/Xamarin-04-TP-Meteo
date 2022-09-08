@@ -11,7 +11,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Xamarin_04_Meteo.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>Xamarin_04_Meteo.iOS</AssemblyName>
+    <AssemblyName>Xamarin-04-Meteo.iOS</AssemblyName>
     <MtouchEnableSGenConc>true</MtouchEnableSGenConc>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <ProvisioningType>automatic</ProvisioningType>

@@ -1,0 +1,16 @@
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\bin\Debug\netstandard2.0\Xamarin-04-Meteo.deps.json
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\bin\Debug\netstandard2.0\Xamarin-04-Meteo.dll
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\bin\Debug\netstandard2.0\Xamarin-04-Meteo.pdb
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Xamarin-04-Meteo.csproj.AssemblyReference.cache
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Xamarin-04-Meteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Xamarin-04-Meteo.AssemblyInfoInputs.cache
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Xamarin-04-Meteo.AssemblyInfo.cs
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Xamarin-04-Meteo.csproj.CoreCompileInputs.cache
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Xamarin-04-Meteo.dll
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\refint\Xamarin-04-Meteo.dll
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Xamarin-04-Meteo.pdb
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\ref\Xamarin-04-Meteo.dll
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-04-Meteo\Xamarin-04-Meteo\obj\Debug\netstandard2.0\Page2.xaml.g.cs

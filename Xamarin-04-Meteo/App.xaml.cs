@@ -10,7 +10,7 @@ namespace Xamarin_04_Meteo
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
