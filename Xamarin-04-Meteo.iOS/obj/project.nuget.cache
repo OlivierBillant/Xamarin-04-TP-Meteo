@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Kt1tO3VwKZ2lhEy+XG/jEVhIOj81NUa7tf66/Uw4iH2yoy2MiGcRRB1MmWuXkN8pEC3r3xv8fvSiglP5fxuYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obillant2022\\Documents\\Xamarin\\Xamarin-04-Meteo\\Xamarin-04-Meteo.iOS\\Xamarin-04-Meteo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obillant2022\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
